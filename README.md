@@ -1,1 +1,1 @@
-# Processamento-Imagem---furb
+# Processamento de Imagem Furb
