@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 
 imagem = cv2.imread('imagem.png')
-plt.imshow(imagem, ' gray')
+plt.imshow(imagem, 'gray')
 plt.title('Primeira Imagem')
 plt.show()
 
