@@ -1,3 +1,4 @@
+#Trabalho 01 Artur Dallagnelo e MAik Carminati
 from matplotlib import pyplot as plt
 import numpy as np
 import cv2
